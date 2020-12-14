@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/smart-internet-of-things-projects/9781786466518)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786466511).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Smart Internet of Things Projects
 
 This is the code repository for [Smart Internet of Things Projects](https://www.packtpub.com/hardware-and-creative/smart-internet-things-projects?utm_source=github&utm_campaign=9781786466518&utm_medium=repository) , published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
